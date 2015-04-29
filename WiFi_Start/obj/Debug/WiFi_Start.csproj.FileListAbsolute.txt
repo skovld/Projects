@@ -1,0 +1,8 @@
+c:\users\vladislav\documents\visual studio 2012\Projects\WiFi_Start\WiFi_Start\bin\Debug\WiFi_Start.exe.config
+c:\users\vladislav\documents\visual studio 2012\Projects\WiFi_Start\WiFi_Start\bin\Debug\WiFi_Start.exe
+c:\users\vladislav\documents\visual studio 2012\Projects\WiFi_Start\WiFi_Start\bin\Debug\WiFi_Start.pdb
+c:\users\vladislav\documents\visual studio 2012\Projects\WiFi_Start\WiFi_Start\obj\Debug\WiFi_Start.csprojResolveAssemblyReference.cache
+c:\users\vladislav\documents\visual studio 2012\Projects\WiFi_Start\WiFi_Start\obj\Debug\WiFi_Start.exe
+c:\users\vladislav\documents\visual studio 2012\Projects\WiFi_Start\WiFi_Start\obj\Debug\WiFi_Start.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\WiFi_Start\WiFi_Start\obj\Debug\WiFi_Start.MeasureRSSI.resources
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\WiFi_Start\WiFi_Start\obj\Debug\WiFi_Start.csproj.GenerateResource.Cache
